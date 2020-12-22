@@ -1,1 +1,13 @@
-# perpustakaan
+# Aplikasi Perpustakaan Sederhana // ELEVENS
+
+Codeigniter
+
+Kelompok 3 \\ Kelas 12.3C.39
+TAUFIK MAULANA 12192842
+SITI HARFIAH MAILINA 12192649
+ANDHIKA FERIAL PUTRA 12192933
+FEBRYANA NABILLA S 12192972RIMBA DEWANGGA ALAMSYAH 12194048
+ENCI NURSYAMSI 12191934 
+
+Video Presentasi
+https://www.youtube.com/watch?v=JoXw5408GyU
